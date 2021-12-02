@@ -60,7 +60,7 @@
 }
 #bodytag{
     height: 300vh;
-    /* background-image: url(./pics/mobirise.jpg); */
+    background-image: url(./pics/mobirise.jpg); 
     background-size: cover;
     background-attachment: scroll;
     color: black;
